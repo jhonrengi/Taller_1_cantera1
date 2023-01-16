@@ -21,4 +21,4 @@ Para el desarrollo del primer punto , se hace uso de la defincion para varibles 
 
 Se hace uso de la impresion en pantalla por medio del metodo "Escribir", en el cual se hace un mensaje que sea claro para el usuario.
 
-A continuacion dejare un video explicativo, en el que expongo la realizacion de cada uno de los puntos.
+En la seccion de los archivos dejare un video explicativo, en el que expongo la realizacion de cada uno de los puntos.
